@@ -1,0 +1,43 @@
+        
+        @import url('https://fonts.googleapis.com/css?family=Lobster|Vollkorn');
+
+
+        h1{
+            font-family: 'Lobster', cursive;
+            text-align: center;
+        }
+        body{
+            background-color: #6f7c85 ;
+            margin:0px;
+            padding:0px;
+            font-size: 20px;
+        }
+        .popupContainerDiv{
+
+            width: 500px;
+            min-height: 300px;
+            max-height: 600px;
+
+        }
+
+        ul {
+            margin-top: 30px;
+            margin-bottom: 100px;
+            margin-right: 50px;
+            margin-left: 50px;
+            background: #75838d ;
+            padding: 20px;
+            border-radius: 30px
+            font-size: 20px
+
+
+            
+        }
+
+         ul li {
+            background:  #7e8d98 ;
+            margin: 20px;
+            border-radius: 10px;
+            font-family: 'Vollkorn', serif;
+            font-size: 20px;
+        }
